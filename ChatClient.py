@@ -7,7 +7,7 @@ class ChatClient():
     
         self.client = OpenAI(api_key=api_key)
 
-        self.model = "gpt-3.5-turbo"
+        self.model = "gpt-4-turbo"
         st.session_state["openai_model"] = self.model
 
         st.session_state.messages = []

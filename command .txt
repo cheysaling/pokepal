@@ -1,0 +1,22 @@
+C:\Users\perse>cd .\chatbot\
+
+C:\Users\perse\chatbot>.\.chat\Scripts\activate
+
+(.chat) C:\Users\perse\chatbot>
+(.chat) C:\Users\perse\chatbot>streamlit run .\app.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://100.64.100.6:8501
+
+  Stopping...
+
+(.chat) C:\Users\perse\chatbot>streamlit run .\app.py
+
+  You can now view your Streamlit app in your browser.
+
+  Local URL: http://localhost:8501
+  Network URL: http://100.64.100.6:8501
+
+  Stopping...

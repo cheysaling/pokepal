@@ -1,0 +1,23 @@
+make resources for:
+
+-https://github.com/MarcusW03/owlhacks_project_2024/tree/main
+
+-https://git-scm.com/downloads/win
+
+-https://www.python.org/downloads/windows/
+
+css for chatbot: https://discuss.streamlit.io/t/how-do-i-use-a-background-image-on-streamlit/5067/2
+
+
+Background image:
+https://www.wallpaperflare.com/green-grass-blue-body-of-water-and-white-clouds-illustration-pokemon-pixel-art-wallpaper-207732
+
+
+
+
+
+
+
+
+
+

@@ -1,13 +1,10 @@
 css = """
         <style>
-            [data-testid="stSidebarHeader"] img {
-                height: 8rem;
-                display: block;
-                margin-left: 3rem;
-            }
-            
-            .stAppToolbar {display:none;}
             footer {visibility: hidden;}
-            #stDecoration {display:none;}
+            stDecoration {display:none;}
+            .reportview-container {
+            background:url("https://www.wallpaperflare.com/static/933/827/743/pok%C3%A9mon-pixel-art-green-grass-wallpaper-preview.jpg");
+            }
         </style>
       """
+      

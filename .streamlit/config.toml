@@ -1,6 +1,9 @@
 [theme]
-primaryColor="#000000"
-backgroundColor="#F5F5F5"
-secondaryBackgroundColor="#FAF0CA"
-textColor="#000000"
+primaryColor="#006600" #user input box outline
+backgroundColor="#FF9933" #Whole background
+secondaryBackgroundColor="#66FF66" #user input box background
+textColor="#000000" #Pokemon Insight and blurb
 font="sans serif"
+
+
+ 
